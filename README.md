@@ -35,8 +35,8 @@ BSc in Computer Science and Engineering, BRAC University, 2022
 <p align="left">
 <a href="https://github.com/nazmul-islam76" target="blank"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt="nazmul-islam76" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nazmul.pranto.31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nazmul.pranto.31" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nazmul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nazmul islam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nazmulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nazmulislam" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nazmulislam76bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nazmul islam" height="30" width="40" /></a>
+<a href="https://leetcode.com/nazmulislam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nazmulislam" height="30" width="40" /></a>
 </p>
 
 <br>
