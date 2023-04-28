@@ -8,8 +8,9 @@ Currently learning and gaining hands-on experience in the field of IT infrastruc
 
 <br>
 
-# 🎓 Education"
-BSc in Computer Science and Engineering, BRAC University, 2022
+# 🎓 Education:
+| BSc in Computer Science and Engineering  | BRAC University | 2022 |
+| ---------------------------------------- |:---------------:|:----:|
 
 <br>
 
