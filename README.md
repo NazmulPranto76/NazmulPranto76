@@ -45,8 +45,6 @@ Currently learning and gaining hands-on experience in the field of IT infrastruc
 # 📊 My Stats:
 ![Nazmul's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nazmul-islam76&show_icons=true&theme=dark#gh-dark-mode-only)
 
-![GitHub metrics](https://metrics.lecoq.io/nazmul-islam76)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nazmul-islam76)  
 
 ![Profile views](https://gpvc.arturio.dev/nazmul-islam76)  
